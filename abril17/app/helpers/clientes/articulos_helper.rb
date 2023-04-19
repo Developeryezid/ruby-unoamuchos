@@ -1,0 +1,2 @@
+module Clientes::ArticulosHelper
+end
